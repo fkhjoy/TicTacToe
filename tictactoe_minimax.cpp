@@ -185,7 +185,9 @@ int main()
             if(ch=='N')continue;
 
             else if(ch=='D')
+            {
                 cout<<endl<<"Match draw."<<endl;break;
+            }
 
             else
             {
